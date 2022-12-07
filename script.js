@@ -196,7 +196,7 @@ const chaptersObj = {
 /**** INSTRUCTIONS PS2.2: 6, 8 *****/
 function goToChapter(chapterName) {
 
-body.classList.add('chapterName');
+//body.classList.add('chapterName');
 
 
 
